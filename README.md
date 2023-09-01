@@ -6,3 +6,6 @@ a quick script to take google books that offer a preview and download them for f
 
 Credit: 
  - Snippets of code used from https://github.com/aprikyan/google-books-downloader, older windows and google repo(rewritten with modern api calls, linux compatibility, and it uses firefox)
+
+Notes:
+ - Book has to be previewable
